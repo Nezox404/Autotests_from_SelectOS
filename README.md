@@ -1,1 +1,1 @@
-# Autotests_from_SelectOS
+В данной директрии представлен файл bash скрипта для проверки совместимости SelectOS и PostgreSQL.
